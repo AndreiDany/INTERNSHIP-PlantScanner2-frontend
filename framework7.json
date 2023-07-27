@@ -1,0 +1,18 @@
+{
+  "cwd": "D:\\INTERNSHIP-11Digits\\Proiecte\\PlantScanner2",
+  "type": [
+    "pwa"
+  ],
+  "name": "Plant Scanner",
+  "framework": "vue",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
